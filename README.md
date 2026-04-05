@@ -1,4 +1,4 @@
-# Fair Play — Esports Tournament Platform
+# FF BOOYAH — Esports Tournament Platform
 
 Live at: https://zihadxod1.github.io/fairplay
 
